@@ -1,0 +1,14 @@
+/Users/lucasbhenderson/Dev/My_Melvin_App-master/dotNetBackend/bin/Debug/netcoreapp2.2/dotNetBackend.deps.json
+/Users/lucasbhenderson/Dev/My_Melvin_App-master/dotNetBackend/bin/Debug/netcoreapp2.2/dotNetBackend.runtimeconfig.json
+/Users/lucasbhenderson/Dev/My_Melvin_App-master/dotNetBackend/bin/Debug/netcoreapp2.2/dotNetBackend.runtimeconfig.dev.json
+/Users/lucasbhenderson/Dev/My_Melvin_App-master/dotNetBackend/bin/Debug/netcoreapp2.2/dotNetBackend.dll
+/Users/lucasbhenderson/Dev/My_Melvin_App-master/dotNetBackend/bin/Debug/netcoreapp2.2/dotNetBackend.pdb
+/Users/lucasbhenderson/Dev/My_Melvin_App-master/dotNetBackend/obj/Debug/netcoreapp2.2/dotNetBackend.csprojAssemblyReference.cache
+/Users/lucasbhenderson/Dev/My_Melvin_App-master/dotNetBackend/obj/Debug/netcoreapp2.2/dotNetBackend.csproj.CoreCompileInputs.cache
+/Users/lucasbhenderson/Dev/My_Melvin_App-master/dotNetBackend/obj/Debug/netcoreapp2.2/dotNetBackend.RazorAssemblyInfo.cache
+/Users/lucasbhenderson/Dev/My_Melvin_App-master/dotNetBackend/obj/Debug/netcoreapp2.2/dotNetBackend.RazorAssemblyInfo.cs
+/Users/lucasbhenderson/Dev/My_Melvin_App-master/dotNetBackend/obj/Debug/netcoreapp2.2/dotNetBackend.AssemblyInfoInputs.cache
+/Users/lucasbhenderson/Dev/My_Melvin_App-master/dotNetBackend/obj/Debug/netcoreapp2.2/dotNetBackend.AssemblyInfo.cs
+/Users/lucasbhenderson/Dev/My_Melvin_App-master/dotNetBackend/obj/Debug/netcoreapp2.2/dotNetBackend.RazorTargetAssemblyInfo.cache
+/Users/lucasbhenderson/Dev/My_Melvin_App-master/dotNetBackend/obj/Debug/netcoreapp2.2/dotNetBackend.dll
+/Users/lucasbhenderson/Dev/My_Melvin_App-master/dotNetBackend/obj/Debug/netcoreapp2.2/dotNetBackend.pdb
